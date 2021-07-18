@@ -1,0 +1,10 @@
+{
+  "name": "javascript-methods",
+  "version": "1.0.0",
+  "description": "usage examples for different javascript methods",
+  "main": "index.js",
+  "repository": "https://github.com/Bassel17/javascript-methods",
+  "author": "Bassel Kanso <basselkanso82@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

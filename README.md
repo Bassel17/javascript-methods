@@ -1,0 +1,1 @@
+# This repository is created to show different usecases for javascript methods
